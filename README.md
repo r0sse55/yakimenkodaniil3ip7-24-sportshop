@@ -15,7 +15,7 @@
 ## Установка
 
 ```bash
-git clone git@github.com:Belomaster/SportShop.git
+git clone git@github.com:r0sse55/SportShop.git
 cd SportShop
 ```
 
